@@ -38,7 +38,13 @@
     },
     "description": "The Tree component handles the creating, manipulating and querying of tree structures.  This component uses persistent objects as data storage for the data elements of the tree nodes.",
     "homepage": "https://github.com/zetacomponents",
-    "license": "apache2",
+    "license": "Apache-2.0",
     "name": "zetacomponents/tree-persistent-object-tiein",
-    "type": "library"
+    "type": "library",
+        "require": {
+            "zetacomponents/base": "*"
+        },
+        "require-dev": {
+            "zetacomponents/unit-test": "*"
+        }
 }
