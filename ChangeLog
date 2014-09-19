@@ -1,3 +1,13 @@
+1.1 - Friday 19 September 2014
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+- Updated all the class diagrams.
+- Fixed: Adjusted source headers of TreePersistentObjectTiein to Apache license.
+- Updated: Moving copyright information to NOTICE files.
+- Fixed: Updated copyright dates in NOTICE files.
+- Remove custom test runner.
+- Fix autoloading with composer
+
 1.0 - Monday 17 December 2007
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
